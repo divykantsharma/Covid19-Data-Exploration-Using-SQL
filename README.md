@@ -1,5 +1,5 @@
 
-# COVID-19 Data Analysis Project
+# COVID-19 Data Exploration Project
 
 This project involves the thorough analysis of COVID-19 data utilizing SQL techniques to extract meaningful insights and trends. The main goal of this project is to gain a comprehensive understanding of the pandemic's impact on different regions and timeframes.
 
